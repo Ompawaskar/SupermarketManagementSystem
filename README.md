@@ -6,3 +6,5 @@ MySql is used as a database.
 Link to user interface of Project
 [SupermarketManagementSystem/ProjectImages](https://github.com/Ompawaskar/SupermarketManagementSystem/tree/main/ProjectImages)
 
+
+![image](https://github.com/Ompawaskar/SupermarketManagementSystem/assets/127537459/068a4dbd-79b2-45a3-9f15-3c24938484e0)
