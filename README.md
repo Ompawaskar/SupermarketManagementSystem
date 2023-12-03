@@ -4,5 +4,5 @@ Our platform offers seamless real-time inventory management, meticulous maintena
 This application is made using Java and its libraries.
 MySql is used as a database.
 Link to user interface of Project
-SupermarketManagementSystem/ProjectImages
+[SupermarketManagementSystem/ProjectImages](https://github.com/Ompawaskar/SupermarketManagementSystem/tree/main/ProjectImages)
 
