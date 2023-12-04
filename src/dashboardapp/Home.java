@@ -7,7 +7,7 @@
  package dashboardapp;
 
  
-
+import org.netbeans.lib.awtextra.AbsoluteLayout;
 import java.awt.Color;
 import java.awt.Image;
 import java.sql.ResultSetMetaData;

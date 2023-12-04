@@ -22,8 +22,8 @@ public class TwilioSMSExample {
     Connection con;
     ResultSet rs;
     PreparedStatement pst,pst2;
-    public static final String ACCOUNT_SID = "AC1be63eec0c69ae94fdd5d2fbbaccd726";
-    public static final String AUTH_TOKEN = "90efff39409e0481325f34db641b9ddf";
+    public static final String ACCOUNT_SID = "YOur Account Id Will Come here";
+    public static final String AUTH_TOKEN = "Password";
     
     public TwilioSMSExample()
     {
@@ -44,7 +44,7 @@ public class TwilioSMSExample {
             String twilioPhoneNumber = "+12054330948";
             // Define an array of recipient phone numbers
             String[] recipientPhoneNumbers = {
-                "+919321543686","+918369147159","+919175205766","+918369097541"// Replace with the actual recipient phone numbers
+               "Add Phone nos here"// Replace with the actual recipient phone numbers
                     
                     // You can add more phone numbers to this array
             };
